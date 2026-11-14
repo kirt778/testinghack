@@ -1,0 +1,50 @@
+{
+  "scheme_id": "pm_mudra",
+  "scheme_name": "Pradhan Mantri MUDRA Yojana (PMMY)",
+  "ministry": "Ministry of Finance",
+  "state_specific": "All India",
+  "benefits_summary": "Collateral-free micro-enterprise loans up to ₹10,00,000 (Shishu up to ₹50k, Kishore up to ₹5L, Tarun up to ₹10L, Tarun Plus up to ₹20L) for non-farm small businesses.",
+  "eligibility_rules": {
+    "min_age": 18,
+    "max_age": 65,
+    "allowed_genders": [
+      "male",
+      "female",
+      "other"
+    ],
+    "allowed_states": [
+      "All"
+    ],
+    "allowed_occupations": [
+      "street_vendor",
+      "artisan",
+      "self_employed",
+      "shopkeeper",
+      "entrepreneur"
+    ],
+    "max_annual_income": null,
+    "allowed_categories": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ],
+    "requires_land_ownership": null
+  },
+  "exclusions": [
+    "Direct agricultural crop loans",
+    "Defaulters to any bank or financial institution"
+  ],
+  "documents_required": [
+    "Identity and Address Proof",
+    "Business Plan or Quotation of Machinery/Items to Purchase",
+    "Last 6 Months Bank Statement"
+  ],
+  "application_steps": [
+    "Visit the JanSamarth portal (jansamarth.in) or any commercial bank/MFI branch.",
+    "Select the Shishu, Kishore, or Tarun loan category and submit your business proposal.",
+    "Receive loan disbursement directly into your account or vendor account."
+  ],
+  "source_url": "https://www.myscheme.gov.in/schemes/pmmy",
+  "date_checked": "2026-11-14"
+}

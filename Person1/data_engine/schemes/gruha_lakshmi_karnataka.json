@@ -1,0 +1,44 @@
+{
+  "scheme_id": "gruha_lakshmi_karnataka",
+  "scheme_name": "Gruha Lakshmi Scheme (Karnataka State Scheme)",
+  "ministry": "Department of Women and Child Development, Government of Karnataka",
+  "state_specific": "Karnataka",
+  "benefits_summary": "Monthly financial assistance of ₹2,000 transferred directly via DBT to the woman head of the family listed on the household Ration Card.",
+  "eligibility_rules": {
+    "min_age": 18,
+    "max_age": null,
+    "allowed_genders": [
+      "female"
+    ],
+    "allowed_states": [
+      "Karnataka"
+    ],
+    "allowed_occupations": [
+      "All"
+    ],
+    "max_annual_income": 200000,
+    "allowed_categories": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ],
+    "requires_land_ownership": null
+  },
+  "exclusions": [
+    "Families where the woman head or her husband is an Income Tax or GST payer",
+    "Non-residents of Karnataka"
+  ],
+  "documents_required": [
+    "Antyodaya, BPL, or APL Ration Card showing woman as family head",
+    "Identity Proof of Woman Head and Spouse",
+    "Bank Account Passbook"
+  ],
+  "application_steps": [
+    "Apply on the Karnataka Seva Sindhu Guarantee Schemes Portal or visit a Bangalore One / Karnataka One / Bapuji Seva Kendra center.",
+    "Provide Ration Card number and verify family details.",
+    "Receive ₹2,000 monthly directly into your bank account."
+  ],
+  "source_url": "https://sevasindhugs.karnataka.gov.in/",
+  "date_checked": "2026-11-14"
+}

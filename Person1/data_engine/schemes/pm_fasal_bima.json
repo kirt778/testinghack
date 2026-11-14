@@ -1,0 +1,46 @@
+{
+  "scheme_id": "pm_fasal_bima",
+  "scheme_name": "Pradhan Mantri Fasal Bima Yojana (PMFBY)",
+  "ministry": "Ministry of Agriculture and Farmers Welfare",
+  "state_specific": "All India",
+  "benefits_summary": "Comprehensive crop insurance against natural calamities, pests, and diseases at very low farmer premium (2% for Kharif, 1.5% for Rabi, 5% for commercial crops).",
+  "eligibility_rules": {
+    "min_age": 18,
+    "max_age": null,
+    "allowed_genders": [
+      "male",
+      "female",
+      "other"
+    ],
+    "allowed_states": [
+      "All"
+    ],
+    "allowed_occupations": [
+      "farmer",
+      "agriculture"
+    ],
+    "max_annual_income": null,
+    "allowed_categories": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ],
+    "requires_land_ownership": true
+  },
+  "exclusions": [
+    "Crop losses caused by war, nuclear risks, or malicious damage"
+  ],
+  "documents_required": [
+    "Land Possession Certificate / Khasra paper or Tenancy Agreement",
+    "Sowing Certificate",
+    "Bank Account Passbook"
+  ],
+  "application_steps": [
+    "Apply on pmfby.gov.in, through your crop loan bank, or at a Common Service Centre (CSC) before the seasonal cut-off date.",
+    "Pay the nominal 1.5% to 2% farmer share premium.",
+    "Report any localized crop loss within 72 hours via the Crop Insurance App."
+  ],
+  "source_url": "https://www.myscheme.gov.in/schemes/pmfby",
+  "date_checked": "2026-11-14"
+}

@@ -1,0 +1,45 @@
+{
+  "scheme_id": "lakshmir_bhandar_wb",
+  "scheme_name": "Lakshmir Bhandar Scheme (West Bengal)",
+  "ministry": "Department of Women and Child Development and Social Welfare, Government of West Bengal",
+  "state_specific": "West Bengal",
+  "benefits_summary": "Monthly financial assistance of ₹1,200 for SC/ST women and ₹1,000 for General/OBC women transferred directly to their bank account.",
+  "eligibility_rules": {
+    "min_age": 25,
+    "max_age": 60,
+    "allowed_genders": [
+      "female"
+    ],
+    "allowed_states": [
+      "West Bengal"
+    ],
+    "allowed_occupations": [
+      "All"
+    ],
+    "max_annual_income": null,
+    "allowed_categories": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ],
+    "requires_land_ownership": null
+  },
+  "exclusions": [
+    "Women with permanent employment in Central or State Government, PSUs, or statutory bodies",
+    "Non-residents of West Bengal"
+  ],
+  "documents_required": [
+    "Swasthya Sathi Card or Official Identity Proof",
+    "SC/ST Certificate (if applicable)",
+    "Bank Account Passbook",
+    "Passport-size Photograph"
+  ],
+  "application_steps": [
+    "Collect the free application form at a Duare Sarkar camp or Block Development Office (BDO) / Urban Local Body office.",
+    "Fill in personal and bank details and attach self-attested copies of required documents.",
+    "Submit the form at the Duare Sarkar camp for verification and DBT sanction."
+  ],
+  "source_url": "https://www.myscheme.gov.in/schemes/lbs-wb",
+  "date_checked": "2026-11-14"
+}

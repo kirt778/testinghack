@@ -1,0 +1,46 @@
+{
+  "scheme_id": "subhadra_yojana_odisha",
+  "scheme_name": "SUBHADRA Yojana (Odisha)",
+  "ministry": "Department of Women and Child Development, Government of Odisha",
+  "state_specific": "Odisha",
+  "benefits_summary": "Financial assistance of ₹10,000 per year in two equal installments of ₹5,000 (on Raksha Bandhan and International Women's Day) totaling ₹50,000 over 5 years, plus a SUBHADRA Debit Card.",
+  "eligibility_rules": {
+    "min_age": 21,
+    "max_age": 60,
+    "allowed_genders": [
+      "female"
+    ],
+    "allowed_states": [
+      "Odisha"
+    ],
+    "allowed_occupations": [
+      "All"
+    ],
+    "max_annual_income": 250000,
+    "allowed_categories": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ],
+    "requires_land_ownership": null
+  },
+  "exclusions": [
+    "Families with annual income above ₹2,50,000",
+    "Households owning more than 5 acres of irrigated land or 10 acres of non-irrigated land",
+    "Income tax payers or regular government employees"
+  ],
+  "documents_required": [
+    "Odisha Ration Card (NFSA / SFSS) or Residence Proof",
+    "Official Identity Card",
+    "Single-Holder DBT-Enabled Bank Account",
+    "Mobile Number"
+  ],
+  "application_steps": [
+    "Obtain the free printed SUBHADRA form from an Anganwadi Centre, Block Office, or Mo Seba Kendra.",
+    "Submit the filled form at the nearest Common Service Centre (CSC) or Mo Seba Kendra for online digitization on subhadra.odisha.gov.in.",
+    "Complete biometric e-KYC to receive ₹5,000 bi-annual installments."
+  ],
+  "source_url": "https://subhadra.odisha.gov.in/",
+  "date_checked": "2026-11-14"
+}

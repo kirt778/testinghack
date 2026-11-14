@@ -1,0 +1,45 @@
+{
+  "scheme_id": "pmjjby",
+  "scheme_name": "Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY)",
+  "ministry": "Ministry of Finance",
+  "state_specific": "All India",
+  "benefits_summary": "One-year renewable term life insurance cover of ₹2,00,000 for death due to any reason at an annual premium of ₹436.",
+  "eligibility_rules": {
+    "min_age": 18,
+    "max_age": 50,
+    "allowed_genders": [
+      "male",
+      "female",
+      "other"
+    ],
+    "allowed_states": [
+      "All"
+    ],
+    "allowed_occupations": [
+      "All"
+    ],
+    "max_annual_income": null,
+    "allowed_categories": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ],
+    "requires_land_ownership": null
+  },
+  "exclusions": [
+    "New enrollees above 50 years of age"
+  ],
+  "documents_required": [
+    "Savings Bank Account Passbook",
+    "Official Identity Proof",
+    "Signed Auto-Debit Consent Form"
+  ],
+  "application_steps": [
+    "Visit your savings bank branch or net banking portal.",
+    "Submit the PMJJBY enrollment cum auto-debit mandate form.",
+    "Ensure sufficient balance for the ₹436 annual premium deduction."
+  ],
+  "source_url": "https://www.myscheme.gov.in/schemes/pmjjby",
+  "date_checked": "2026-11-14"
+}

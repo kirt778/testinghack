@@ -1,0 +1,44 @@
+{
+  "scheme_id": "sukanya_samriddhi",
+  "scheme_name": "Sukanya Samriddhi Yojana (SSY)",
+  "ministry": "Ministry of Finance",
+  "state_specific": "All India",
+  "benefits_summary": "High-interest (8.2% p.a.) tax-free savings account for a girl child's education and marriage expenses, with Section 80C tax deduction up to ₹1,50,000.",
+  "eligibility_rules": {
+    "min_age": 0,
+    "max_age": 10,
+    "allowed_genders": [
+      "female"
+    ],
+    "allowed_states": [
+      "All"
+    ],
+    "allowed_occupations": [
+      "All"
+    ],
+    "max_annual_income": null,
+    "allowed_categories": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ],
+    "requires_land_ownership": null
+  },
+  "exclusions": [
+    "Girl child above 10 years of age",
+    "More than two girl children per family (unless twins/triplets)"
+  ],
+  "documents_required": [
+    "Birth Certificate of Girl Child",
+    "Parent/Guardian Identity and Address Proof",
+    "Passport-size photographs"
+  ],
+  "application_steps": [
+    "Visit any Post Office or authorized commercial bank branch.",
+    "Fill out the Sukanya Samriddhi Account opening form (Form SSA-1).",
+    "Submit the birth certificate and guardian ID with an initial deposit (minimum ₹250)."
+  ],
+  "source_url": "https://www.myscheme.gov.in/schemes/ssy",
+  "date_checked": "2026-11-14"
+}

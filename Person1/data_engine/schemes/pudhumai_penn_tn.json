@@ -1,0 +1,45 @@
+{
+  "scheme_id": "pudhumai_penn_tn",
+  "scheme_name": "Moovalur Ramamirtham Ammaiyar Pudhumai Penn Scheme (Tamil Nadu)",
+  "ministry": "Department of Social Welfare and Women Empowerment, Government of Tamil Nadu",
+  "state_specific": "Tamil Nadu",
+  "benefits_summary": "Monthly financial grant of ₹1,000 paid directly into the bank account of girl students pursuing Undergraduate Degree, Diploma, or ITI courses until completion.",
+  "eligibility_rules": {
+    "min_age": 17,
+    "max_age": 25,
+    "allowed_genders": [
+      "female"
+    ],
+    "allowed_states": [
+      "Tamil Nadu"
+    ],
+    "allowed_occupations": [
+      "student"
+    ],
+    "max_annual_income": null,
+    "allowed_categories": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ],
+    "requires_land_ownership": null
+  },
+  "exclusions": [
+    "Students who studied Class 6 to 12 in private unaided schools (unless under RTE quota)",
+    "Students pursuing distance or correspondence education"
+  ],
+  "documents_required": [
+    "Class 6 to 12 Government School Study Certificate / EMIS ID",
+    "College Bonafide Certificate",
+    "Student Bank Account Passbook",
+    "Official Identity Proof"
+  ],
+  "application_steps": [
+    "Apply online through the Pudhumai Penn portal (penkalvi.tn.gov.in) via your college nodal officer.",
+    "Enter your EMIS school number to auto-verify Class 6 to 12 government school education.",
+    "Complete college verification to receive ₹1,000 monthly via DBT."
+  ],
+  "source_url": "https://www.myscheme.gov.in/schemes/mrapps",
+  "date_checked": "2026-11-14"
+}

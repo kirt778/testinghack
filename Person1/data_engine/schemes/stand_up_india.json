@@ -1,0 +1,47 @@
+{
+  "scheme_id": "stand_up_india",
+  "scheme_name": "Stand-Up India Scheme",
+  "ministry": "Ministry of Finance",
+  "state_specific": "All India",
+  "benefits_summary": "Bank loans between ₹10,00,000 and ₹1,00,00,000 to SC/ST or women entrepreneurs for setting up a greenfield enterprise in manufacturing, services, or trading.",
+  "eligibility_rules": {
+    "min_age": 18,
+    "max_age": null,
+    "allowed_genders": [
+      "male",
+      "female",
+      "other"
+    ],
+    "allowed_states": [
+      "All"
+    ],
+    "allowed_occupations": [
+      "entrepreneur",
+      "self_employed"
+    ],
+    "max_annual_income": null,
+    "allowed_categories": [
+      "SC",
+      "ST",
+      "General",
+      "OBC"
+    ],
+    "requires_land_ownership": null
+  },
+  "exclusions": [
+    "Non-greenfield (existing) business expansions",
+    "Male applicants belonging to General or OBC categories"
+  ],
+  "documents_required": [
+    "Caste Certificate (for SC/ST applicants)",
+    "Project Report and Business Incorporation Proof",
+    "Identity and Address Proof"
+  ],
+  "application_steps": [
+    "Apply online through standupmitra.in or visit a scheduled commercial bank branch.",
+    "Connect with a Stand-Up India Lead District Manager for handholding support.",
+    "Submit project report for Composite Loan sanction."
+  ],
+  "source_url": "https://www.myscheme.gov.in/schemes/suis",
+  "date_checked": "2026-11-14"
+}

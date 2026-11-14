@@ -1,0 +1,45 @@
+{
+  "scheme_id": "ladki_bahin_maharashtra",
+  "scheme_name": "Mukhyamantri Majhi Ladki Bahin Yojana (Maharashtra)",
+  "ministry": "Women and Child Development Department, Government of Maharashtra",
+  "state_specific": "Maharashtra",
+  "benefits_summary": "Direct monthly financial assistance of ₹1,500 transferred to the bank account of eligible women in Maharashtra to promote economic independence and health.",
+  "eligibility_rules": {
+    "min_age": 21,
+    "max_age": 65,
+    "allowed_genders": [
+      "female"
+    ],
+    "allowed_states": [
+      "Maharashtra"
+    ],
+    "allowed_occupations": [
+      "All"
+    ],
+    "max_annual_income": 250000,
+    "allowed_categories": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ],
+    "requires_land_ownership": null
+  },
+  "exclusions": [
+    "Families with combined annual income exceeding ₹2,50,000",
+    "Households with an income tax payer, regular government employee, or four-wheeler (excluding tractor)"
+  ],
+  "documents_required": [
+    "Maharashtra Domicile Certificate, Birth Certificate, or 15-Year-Old Ration Card",
+    "Yellow or Orange Ration Card (or Income Certificate up to ₹2.5 Lakh)",
+    "Bank Account Passbook",
+    "Applicant Photograph"
+  ],
+  "application_steps": [
+    "Apply on the official Ladki Bahin portal (ladakibahin.maharashtra.gov.in), Nari Shakti Doot App, or nearest Anganwadi/Setu Suvidha Kendra.",
+    "Upload Domicile proof, Ration Card/Income proof, and signed Hamipatra (self-declaration).",
+    "Complete e-KYC verification for monthly DBT disbursement."
+  ],
+  "source_url": "https://ladakibahin.maharashtra.gov.in/",
+  "date_checked": "2026-11-14"
+}

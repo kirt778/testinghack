@@ -1,0 +1,44 @@
+{
+  "scheme_id": "nsp_post_matric_sc",
+  "scheme_name": "Post-Matric Scholarship for SC Students",
+  "ministry": "Ministry of Social Justice and Empowerment",
+  "state_specific": "All India",
+  "benefits_summary": "Full reimbursement of compulsory non-refundable tuition fees plus an academic allowance of ₹2,500 to ₹13,500 per year for Scheduled Caste students studying in Class 11 through PhD.",
+  "eligibility_rules": {
+    "min_age": 14,
+    "max_age": 35,
+    "allowed_genders": [
+      "male",
+      "female",
+      "other"
+    ],
+    "allowed_states": [
+      "All"
+    ],
+    "allowed_occupations": [
+      "student"
+    ],
+    "max_annual_income": 250000,
+    "allowed_categories": [
+      "SC"
+    ],
+    "requires_land_ownership": null
+  },
+  "exclusions": [
+    "Students belonging to categories other than Scheduled Caste",
+    "Family annual income above ₹2,50,000"
+  ],
+  "documents_required": [
+    "SC Caste Certificate",
+    "Family Annual Income Certificate",
+    "Previous Year Marksheet and Fee Receipt",
+    "Student Bank Account Passbook"
+  ],
+  "application_steps": [
+    "Register on the National Scholarship Portal (scholarships.gov.in).",
+    "Complete One-Time Registration (OTR) and fill out the Post-Matric Scholarship application.",
+    "Upload Caste and Income certificates for institute verification."
+  ],
+  "source_url": "https://www.myscheme.gov.in/schemes/pms-sc",
+  "date_checked": "2026-11-14"
+}

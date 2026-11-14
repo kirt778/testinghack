@@ -1,0 +1,44 @@
+{
+  "scheme_id": "pm_ujjwala",
+  "scheme_name": "Pradhan Mantri Ujjwala Yojana 2.0 (PMUY)",
+  "ministry": "Ministry of Petroleum and Natural Gas",
+  "state_specific": "All India",
+  "benefits_summary": "Deposit-free LPG connection with financial support of ₹1,600, plus a free first LPG cylinder refill and hotplate stove, and ₹300 per cylinder targeted subsidy.",
+  "eligibility_rules": {
+    "min_age": 18,
+    "max_age": null,
+    "allowed_genders": [
+      "female"
+    ],
+    "allowed_states": [
+      "All"
+    ],
+    "allowed_occupations": [
+      "All"
+    ],
+    "max_annual_income": 200000,
+    "allowed_categories": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ],
+    "requires_land_ownership": null
+  },
+  "exclusions": [
+    "Households that already have an existing LPG connection",
+    "Male applicants"
+  ],
+  "documents_required": [
+    "BPL Ration Card or Self-Declaration for Migrant Households",
+    "Identity and Address Proof",
+    "Bank Account Passbook"
+  ],
+  "application_steps": [
+    "Apply online at pmuy.gov.in or visit the nearest LPG distributor (Indane, Bharatgas, HP Gas).",
+    "Submit the KYC form along with Ration Card/Deprivation Declaration.",
+    "Collect your LPG stove and cylinder after connection release."
+  ],
+  "source_url": "https://www.myscheme.gov.in/schemes/pmuy",
+  "date_checked": "2026-11-14"
+}

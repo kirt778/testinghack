@@ -1,0 +1,47 @@
+{
+  "scheme_id": "pmay_g",
+  "scheme_name": "Pradhan Mantri Awaas Yojana - Gramin (PMAY-G)",
+  "ministry": "Ministry of Rural Development",
+  "state_specific": "All India",
+  "benefits_summary": "Financial assistance of ₹1,20,000 in plain areas and ₹1,30,000 in hilly states for construction of a pucca house.",
+  "eligibility_rules": {
+    "min_age": 18,
+    "max_age": null,
+    "allowed_genders": [
+      "male",
+      "female",
+      "other"
+    ],
+    "allowed_states": [
+      "All"
+    ],
+    "allowed_occupations": [
+      "All"
+    ],
+    "max_annual_income": 200000,
+    "allowed_categories": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ],
+    "requires_land_ownership": false
+  },
+  "exclusions": [
+    "Families already owning a pucca house",
+    "Income tax payers"
+  ],
+  "documents_required": [
+    "Official Identity Proof",
+    "MGNREGA Job Card",
+    "Bank Account Passbook",
+    "Swachh Bharat Mission (SBM) Number"
+  ],
+  "application_steps": [
+    "Visit your Gram Panchayat or Block Development Office.",
+    "Verify your household details under the SECC housing deprivation list.",
+    "Submit required documents and bank details for geo-tagged house sanction."
+  ],
+  "source_url": "https://www.myscheme.gov.in/schemes/pmay-g",
+  "date_checked": "2026-11-14"
+}

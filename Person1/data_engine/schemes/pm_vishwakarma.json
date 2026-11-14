@@ -1,0 +1,54 @@
+{
+  "scheme_id": "pm_vishwakarma",
+  "scheme_name": "PM Vishwakarma Scheme",
+  "ministry": "Ministry of Micro, Small and Medium Enterprises",
+  "state_specific": "All India",
+  "benefits_summary": "₹15,000 toolkit e-voucher, skill training with ₹500/day stipend, and collateral-free enterprise loans up to ₹3,00,000 at 5% concessional interest.",
+  "eligibility_rules": {
+    "min_age": 18,
+    "max_age": null,
+    "allowed_genders": [
+      "male",
+      "female",
+      "other"
+    ],
+    "allowed_states": [
+      "All"
+    ],
+    "allowed_occupations": [
+      "artisan",
+      "carpenter",
+      "tailor",
+      "potter",
+      "blacksmith",
+      "cobbler",
+      "mason",
+      "barber"
+    ],
+    "max_annual_income": null,
+    "allowed_categories": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ],
+    "requires_land_ownership": null
+  },
+  "exclusions": [
+    "Government employees and their family members",
+    "Applicants who already availed PMEGP or Mudra loans in the last 5 years"
+  ],
+  "documents_required": [
+    "Identity Proof",
+    "Ration Card",
+    "Active Bank Account Passbook",
+    "Mobile Number"
+  ],
+  "application_steps": [
+    "Visit your nearest Common Service Centre (CSC) to register on the PM Vishwakarma portal.",
+    "Complete three-stage verification by Gram Panchayat/ULB and District Committee.",
+    "Receive your PM Vishwakarma Digital ID and apply for toolkit incentive and credit."
+  ],
+  "source_url": "https://www.myscheme.gov.in/schemes/pm-vishwakarma",
+  "date_checked": "2026-11-14"
+}

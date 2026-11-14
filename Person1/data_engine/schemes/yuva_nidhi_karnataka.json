@@ -1,0 +1,48 @@
+{
+  "scheme_id": "yuva_nidhi_karnataka",
+  "scheme_name": "Yuva Nidhi Scheme (Karnataka)",
+  "ministry": "Department of Skill Development, Entrepreneurship and Livelihood, Government of Karnataka",
+  "state_specific": "Karnataka",
+  "benefits_summary": "Monthly unemployment allowance of ₹3,000 for unemployed degree graduates and ₹1,500 for unemployed diploma holders for up to 2 years alongside free skill training.",
+  "eligibility_rules": {
+    "min_age": 20,
+    "max_age": 30,
+    "allowed_genders": [
+      "male",
+      "female",
+      "other"
+    ],
+    "allowed_states": [
+      "Karnataka"
+    ],
+    "allowed_occupations": [
+      "unemployed"
+    ],
+    "max_annual_income": null,
+    "allowed_categories": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ],
+    "requires_land_ownership": null
+  },
+  "exclusions": [
+    "Graduates pursuing higher education",
+    "Individuals already employed in public or private sector or self-employed with Mudra/state loans",
+    "Non-domiciles of Karnataka (must have studied at least 6 years in Karnataka)"
+  ],
+  "documents_required": [
+    "Degree or Diploma Provisional/Convocation Certificate",
+    "SSLC / 10th and PUC Marks Cards (showing 6 years study in Karnataka)",
+    "Ration Card or Domicile Proof",
+    "Bank Account Passbook"
+  ],
+  "application_steps": [
+    "Log into the Karnataka Seva Sindhu Guarantee Schemes Portal (sevasindhugs.karnataka.gov.in).",
+    "Fill out the Yuva Nidhi application with your University Registration Number for NAD verification.",
+    "Submit monthly self-declaration of unemployment status before the 25th of each month."
+  ],
+  "source_url": "https://sevasindhugs.karnataka.gov.in/",
+  "date_checked": "2026-11-14"
+}

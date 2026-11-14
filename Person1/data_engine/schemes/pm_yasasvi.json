@@ -1,0 +1,44 @@
+{
+  "scheme_id": "pm_yasasvi",
+  "scheme_name": "PM YASASVI Post-Matric Scholarship for OBC, EBC and DNT Students",
+  "ministry": "Ministry of Social Justice and Empowerment",
+  "state_specific": "All India",
+  "benefits_summary": "Academic allowance and tuition fee grant ranging from ₹5,000 to ₹20,000 per year for OBC, EBC, and DNT students pursuing post-secondary education.",
+  "eligibility_rules": {
+    "min_age": 14,
+    "max_age": 35,
+    "allowed_genders": [
+      "male",
+      "female",
+      "other"
+    ],
+    "allowed_states": [
+      "All"
+    ],
+    "allowed_occupations": [
+      "student"
+    ],
+    "max_annual_income": 250000,
+    "allowed_categories": [
+      "OBC"
+    ],
+    "requires_land_ownership": null
+  },
+  "exclusions": [
+    "Family income exceeding ₹2,50,000 per annum",
+    "Students pursuing correspondence/distance courses"
+  ],
+  "documents_required": [
+    "OBC/EBC/DNT Certificate",
+    "Income Certificate",
+    "Bonafide Student Certificate",
+    "Bank Account Passbook"
+  ],
+  "application_steps": [
+    "Log into the National Scholarship Portal (scholarships.gov.in).",
+    "Select PM YASASVI Post-Matric Scholarship and upload academic and income proofs.",
+    "Submit copy of application to your school or college nodal officer."
+  ],
+  "source_url": "https://www.myscheme.gov.in/schemes/pm-yasasvi-pms",
+  "date_checked": "2026-11-14"
+}

@@ -1,0 +1,45 @@
+{
+  "scheme_id": "pragati_scholarship",
+  "scheme_name": "AICTE Pragati Scholarship for Girl Students",
+  "ministry": "Ministry of Education",
+  "state_specific": "All India",
+  "benefits_summary": "₹50,000 per annum for every year of study (up to 4 years) for girl students admitted to first-year AICTE-approved technical degree or diploma courses.",
+  "eligibility_rules": {
+    "min_age": 16,
+    "max_age": 25,
+    "allowed_genders": [
+      "female"
+    ],
+    "allowed_states": [
+      "All"
+    ],
+    "allowed_occupations": [
+      "student"
+    ],
+    "max_annual_income": 800000,
+    "allowed_categories": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ],
+    "requires_land_ownership": null
+  },
+  "exclusions": [
+    "Male students",
+    "Families with annual income over ₹8,00,000"
+  ],
+  "documents_required": [
+    "10th and 12th Marksheets",
+    "AICTE College Admission Letter",
+    "Family Income Certificate",
+    "Bank Passbook"
+  ],
+  "application_steps": [
+    "Register on the National Scholarship Portal (scholarships.gov.in) under AICTE schemes.",
+    "Fill the Pragati Scholarship form and upload admission and income certificates.",
+    "Get online verification completed by your technical institution."
+  ],
+  "source_url": "https://www.myscheme.gov.in/schemes/psgs-deg",
+  "date_checked": "2026-11-14"
+}

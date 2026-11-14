@@ -1,0 +1,46 @@
+{
+  "scheme_id": "kanyashree_wb",
+  "scheme_name": "Kanyashree Prakalpa (West Bengal)",
+  "ministry": "Department of Women Development and Social Welfare, Government of West Bengal",
+  "state_specific": "West Bengal",
+  "benefits_summary": "Annual scholarship of ₹1,000 for unmarried girls aged 13-18 in school (K1) and a one-time grant of ₹25,000 upon turning 18 if continuing education or vocational training (K2).",
+  "eligibility_rules": {
+    "min_age": 13,
+    "max_age": 19,
+    "allowed_genders": [
+      "female"
+    ],
+    "allowed_states": [
+      "West Bengal"
+    ],
+    "allowed_occupations": [
+      "student"
+    ],
+    "max_annual_income": 120000,
+    "allowed_categories": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ],
+    "requires_land_ownership": null
+  },
+  "exclusions": [
+    "Married applicants",
+    "Families with annual income exceeding ₹1,20,000 (waived for physically challenged or orphaned girls)"
+  ],
+  "documents_required": [
+    "Birth Certificate",
+    "Unmarried Declaration Certificate",
+    "Family Income Certificate",
+    "School/College Enrollment Certificate",
+    "Bank Passbook"
+  ],
+  "application_steps": [
+    "Obtain the K1 or K2 application form from the Head of your Educational Institution.",
+    "Submit the completed form along with birth, income, and unmarried certificates to your school/college.",
+    "Track application status on the official Kanyashree portal (wbkanyashree.gov.in)."
+  ],
+  "source_url": "https://www.myscheme.gov.in/schemes/wbkp",
+  "date_checked": "2026-11-14"
+}

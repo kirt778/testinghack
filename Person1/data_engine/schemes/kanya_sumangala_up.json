@@ -1,0 +1,46 @@
+{
+  "scheme_id": "kanya_sumangala_up",
+  "scheme_name": "Mukhyamantri Kanya Sumangala Yojana (Uttar Pradesh)",
+  "ministry": "Department of Women and Child Welfare, Government of Uttar Pradesh",
+  "state_specific": "Uttar Pradesh",
+  "benefits_summary": "Conditional cash transfer totaling ₹25,000 across 6 milestone stages from a girl child's birth, immunization, and Class 1/6/9 enrollment up to graduation/diploma admission.",
+  "eligibility_rules": {
+    "min_age": 0,
+    "max_age": 21,
+    "allowed_genders": [
+      "female"
+    ],
+    "allowed_states": [
+      "Uttar Pradesh"
+    ],
+    "allowed_occupations": [
+      "student",
+      "All"
+    ],
+    "max_annual_income": 300000,
+    "allowed_categories": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ],
+    "requires_land_ownership": null
+  },
+  "exclusions": [
+    "Families with annual income exceeding ₹3,00,000",
+    "More than two girls per family"
+  ],
+  "documents_required": [
+    "Uttar Pradesh Residence Proof (Ration Card / Voter ID)",
+    "Birth Certificate or School/College Admission Certificate",
+    "Family Income Certificate / Self-Declaration",
+    "Mother/Father/Applicant Bank Passbook"
+  ],
+  "application_steps": [
+    "Register on the UP Kanya Sumangala Portal (mksy.up.gov.in) under Citizen Service Portal.",
+    "Select the applicable stage (Stage 1 to Stage 6) and upload birth/vaccination or school admission proofs.",
+    "After Block/District Probation Officer verification, funds are transferred directly via PFMS."
+  ],
+  "source_url": "https://www.myscheme.gov.in/schemes/mksy",
+  "date_checked": "2026-11-14"
+}

@@ -1,0 +1,46 @@
+{
+  "scheme_id": "kisan_credit_card",
+  "scheme_name": "Kisan Credit Card (KCC)",
+  "ministry": "Ministry of Agriculture and Farmers Welfare",
+  "state_specific": "All India",
+  "benefits_summary": "Short-term revolving credit up to ₹3,00,000 for crops, animal husbandry, and fisheries at an effective 4% p.a. interest rate on timely repayment.",
+  "eligibility_rules": {
+    "min_age": 18,
+    "max_age": 75,
+    "allowed_genders": [
+      "male",
+      "female",
+      "other"
+    ],
+    "allowed_states": [
+      "All"
+    ],
+    "allowed_occupations": [
+      "farmer",
+      "agriculture"
+    ],
+    "max_annual_income": null,
+    "allowed_categories": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ],
+    "requires_land_ownership": true
+  },
+  "exclusions": [
+    "Non-agricultural borrowers"
+  ],
+  "documents_required": [
+    "Completed KCC Application Form",
+    "Identity and Address Proof",
+    "Landholding Record (RTC / Khasra)"
+  ],
+  "application_steps": [
+    "Visit your nearest Rural, Cooperative, or Commercial Bank branch or apply via PM-KISAN portal.",
+    "Submit land records and cropping pattern details.",
+    "Collect your Kisan Credit Card cum RuPay debit card after sanction."
+  ],
+  "source_url": "https://www.myscheme.gov.in/schemes/kcc",
+  "date_checked": "2026-11-14"
+}

@@ -1,0 +1,43 @@
+{
+  "scheme_id": "pm_matru_vandana",
+  "scheme_name": "Pradhan Mantri Matru Vandana Yojana (PMMVY)",
+  "ministry": "Ministry of Women and Child Development",
+  "state_specific": "All India",
+  "benefits_summary": "Maternity cash incentive of ₹5,000 in two installments for the first living child, and ₹6,000 for the second child if it is a girl.",
+  "eligibility_rules": {
+    "min_age": 19,
+    "max_age": 50,
+    "allowed_genders": [
+      "female"
+    ],
+    "allowed_states": [
+      "All"
+    ],
+    "allowed_occupations": [
+      "All"
+    ],
+    "max_annual_income": 800000,
+    "allowed_categories": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ],
+    "requires_land_ownership": null
+  },
+  "exclusions": [
+    "Women in regular employment with Central/State Government or PSUs"
+  ],
+  "documents_required": [
+    "MCP (Mother and Child Protection) Card",
+    "Identity Proof",
+    "Bank Account Passbook"
+  ],
+  "application_steps": [
+    "Register your pregnancy at the nearest Anganwadi Centre (AWC) or approved health facility.",
+    "Submit the PMMVY Form 1-A online or through an ASHA/Anganwadi worker.",
+    "Complete child immunization to receive the final installment."
+  ],
+  "source_url": "https://www.myscheme.gov.in/schemes/pmmvy",
+  "date_checked": "2026-11-14"
+}

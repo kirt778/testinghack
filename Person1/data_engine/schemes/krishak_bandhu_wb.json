@@ -1,0 +1,47 @@
+{
+  "scheme_id": "krishak_bandhu_wb",
+  "scheme_name": "Krishak Bandhu Scheme (West Bengal)",
+  "ministry": "Department of Agriculture, Government of West Bengal",
+  "state_specific": "West Bengal",
+  "benefits_summary": "Financial assistance of ₹4,000 to ₹10,000 per year in two installments (Kharif and Rabi) for cultivation, plus ₹2,00,000 life insurance cover for farmers aged 18-60.",
+  "eligibility_rules": {
+    "min_age": 18,
+    "max_age": 60,
+    "allowed_genders": [
+      "male",
+      "female",
+      "other"
+    ],
+    "allowed_states": [
+      "West Bengal"
+    ],
+    "allowed_occupations": [
+      "farmer",
+      "agriculture"
+    ],
+    "max_annual_income": null,
+    "allowed_categories": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ],
+    "requires_land_ownership": true
+  },
+  "exclusions": [
+    "Non-cultivators without RoR (Porcha), Patta, or registered Bargadar record"
+  ],
+  "documents_required": [
+    "Record of Rights (RoR / Porcha) or Bargadar Certificate",
+    "Voter ID Card",
+    "Bank Account Passbook",
+    "Active Mobile Number"
+  ],
+  "application_steps": [
+    "Visit a Duare Sarkar camp or Assistant Director of Agriculture (ADA) Block Office in West Bengal.",
+    "Submit the Krishak Bandhu enrollment form with land Porcha and bank passbook.",
+    "Check approval status on krishakbandhu.net."
+  ],
+  "source_url": "https://krishakbandhu.net/",
+  "date_checked": "2026-11-14"
+}

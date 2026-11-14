@@ -1,0 +1,51 @@
+{
+  "scheme_id": "pm_shram_yogi",
+  "scheme_name": "Pradhan Mantri Shram Yogi Maan-dhan (PM-SYM)",
+  "ministry": "Ministry of Labour and Employment",
+  "state_specific": "All India",
+  "benefits_summary": "Assured monthly pension of ₹3,000 after attaining age 60 for unorganized workers (rickshaw pullers, street vendors, construction workers, domestic workers) with 50% government co-contribution.",
+  "eligibility_rules": {
+    "min_age": 18,
+    "max_age": 40,
+    "allowed_genders": [
+      "male",
+      "female",
+      "other"
+    ],
+    "allowed_states": [
+      "All"
+    ],
+    "allowed_occupations": [
+      "street_vendor",
+      "laborer",
+      "artisan",
+      "farmer",
+      "self_employed"
+    ],
+    "max_annual_income": 180000,
+    "allowed_categories": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ],
+    "requires_land_ownership": null
+  },
+  "exclusions": [
+    "Workers covered under EPFO, ESIC, or NPS",
+    "Income tax payers",
+    "Monthly income above ₹15,000"
+  ],
+  "documents_required": [
+    "e-Shram Card or Identity Proof",
+    "Savings Bank Account Passbook with IFSC",
+    "Active Mobile Phone"
+  ],
+  "application_steps": [
+    "Visit your nearest Common Service Centre (CSC) with your bank passbook.",
+    "Complete biometric verification and pay the first monthly contribution in cash.",
+    "Receive your printed PM-SYM Pension Card immediately."
+  ],
+  "source_url": "https://www.myscheme.gov.in/schemes/pm-sym",
+  "date_checked": "2026-11-14"
+}

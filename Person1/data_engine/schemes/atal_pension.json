@@ -1,0 +1,51 @@
+{
+  "scheme_id": "atal_pension",
+  "scheme_name": "Atal Pension Yojana (APY)",
+  "ministry": "Ministry of Finance",
+  "state_specific": "All India",
+  "benefits_summary": "Guaranteed monthly pension of ₹1,000 to ₹5,000 after age 60 for unorganized sector workers, based on monthly contribution amount.",
+  "eligibility_rules": {
+    "min_age": 18,
+    "max_age": 40,
+    "allowed_genders": [
+      "male",
+      "female",
+      "other"
+    ],
+    "allowed_states": [
+      "All"
+    ],
+    "allowed_occupations": [
+      "farmer",
+      "street_vendor",
+      "artisan",
+      "laborer",
+      "unemployed",
+      "self_employed"
+    ],
+    "max_annual_income": 500000,
+    "allowed_categories": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ],
+    "requires_land_ownership": null
+  },
+  "exclusions": [
+    "Income tax payers",
+    "Persons below 18 or above 40 years"
+  ],
+  "documents_required": [
+    "Active Savings Bank or Post Office Account",
+    "Identity Proof",
+    "Mobile Number"
+  ],
+  "application_steps": [
+    "Approach the bank branch or post office where your savings account is held.",
+    "Fill the APY registration form and select your pension slab (₹1,000 to ₹5,000).",
+    "Maintain monthly balance for auto-debit contribution."
+  ],
+  "source_url": "https://www.myscheme.gov.in/schemes/apy",
+  "date_checked": "2026-11-14"
+}

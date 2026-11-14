@@ -1,0 +1,46 @@
+{
+  "scheme_id": "pmsby",
+  "scheme_name": "Pradhan Mantri Suraksha Bima Yojana (PMSBY)",
+  "ministry": "Ministry of Finance",
+  "state_specific": "All India",
+  "benefits_summary": "Accidental insurance cover of ₹2,00,000 for accidental death or full disability and ₹1,00,000 for partial disability at a premium of just ₹20 per year.",
+  "eligibility_rules": {
+    "min_age": 18,
+    "max_age": 70,
+    "allowed_genders": [
+      "male",
+      "female",
+      "other"
+    ],
+    "allowed_states": [
+      "All"
+    ],
+    "allowed_occupations": [
+      "All"
+    ],
+    "max_annual_income": null,
+    "allowed_categories": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ],
+    "requires_land_ownership": null
+  },
+  "exclusions": [
+    "Persons aged below 18 or above 70 years",
+    "Applicants without an active savings bank or post office account"
+  ],
+  "documents_required": [
+    "Savings Bank Account Details",
+    "Identity Proof",
+    "Nominee Details"
+  ],
+  "application_steps": [
+    "Log into your internet banking portal or visit your bank branch.",
+    "Fill out the PMSBY auto-debit consent form for ₹20 annual deduction.",
+    "Receive your certificate of accidental insurance cover."
+  ],
+  "source_url": "https://www.myscheme.gov.in/schemes/pmsby",
+  "date_checked": "2026-11-14"
+}

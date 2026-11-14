@@ -1,0 +1,45 @@
+{
+  "scheme_id": "chiranjeevi_swasthya_rajasthan",
+  "scheme_name": "Mukhyamantri Ayushman Arogya (MAA) / Chiranjeevi Yojana (Rajasthan)",
+  "ministry": "Medical, Health and Family Welfare Department, Government of Rajasthan",
+  "state_specific": "Rajasthan",
+  "benefits_summary": "Cashless health insurance cover up to ₹25,00,000 per family per year for hospitalization, plus ₹10,00,000 accidental insurance cover across government and empaneled private hospitals.",
+  "eligibility_rules": {
+    "min_age": null,
+    "max_age": null,
+    "allowed_genders": [
+      "male",
+      "female",
+      "other"
+    ],
+    "allowed_states": [
+      "Rajasthan"
+    ],
+    "allowed_occupations": [
+      "All"
+    ],
+    "max_annual_income": 800000,
+    "allowed_categories": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ],
+    "requires_land_ownership": null
+  },
+  "exclusions": [
+    "Non-residents of Rajasthan without a Jan Aadhaar Card"
+  ],
+  "documents_required": [
+    "Rajasthan Jan Aadhaar Card or Jan Aadhaar Enrollment Slip",
+    "Ration Card / NFSA / SECC / Small Farmer Proof (for free category)",
+    "Official Identity Card"
+  ],
+  "application_steps": [
+    "Log in with your SSO ID on sso.rajasthan.gov.in or visit the nearest e-Mitra center in Rajasthan.",
+    "Enter your Jan Aadhaar number to verify free eligibility (NFSA, small farmers, contract workers, EWS) or pay the ₹850 annual premium.",
+    "Download and print your Family Policy Document for cashless hospital treatment."
+  ],
+  "source_url": "https://www.myscheme.gov.in/schemes/mmcsby",
+  "date_checked": "2026-11-14"
+}

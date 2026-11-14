@@ -1,0 +1,46 @@
+{
+  "scheme_id": "nsap_old_age_pension",
+  "scheme_name": "Indira Gandhi National Old Age Pension Scheme (IGNOAPS)",
+  "ministry": "Ministry of Rural Development",
+  "state_specific": "All India",
+  "benefits_summary": "Non-contributory monthly pension for Below Poverty Line (BPL) senior citizens (₹200 central share + state top-up ranging from ₹600 to ₹2,500 per month).",
+  "eligibility_rules": {
+    "min_age": 60,
+    "max_age": null,
+    "allowed_genders": [
+      "male",
+      "female",
+      "other"
+    ],
+    "allowed_states": [
+      "All"
+    ],
+    "allowed_occupations": [
+      "All"
+    ],
+    "max_annual_income": 100000,
+    "allowed_categories": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ],
+    "requires_land_ownership": null
+  },
+  "exclusions": [
+    "Above Poverty Line (APL) households",
+    "Persons under 60 years of age"
+  ],
+  "documents_required": [
+    "BPL Ration Card",
+    "Age Proof Certificate",
+    "Bank or Post Office Passbook"
+  ],
+  "application_steps": [
+    "Submit the IGNOAPS application at your Gram Panchayat (rural) or Municipal Office (urban) or State Seva Sindhu/CSC portal.",
+    "Undergo verification by the Block Development Officer or Tehsildar.",
+    "Receive monthly pension directly via Direct Benefit Transfer (DBT)."
+  ],
+  "source_url": "https://www.myscheme.gov.in/schemes/ignoaps",
+  "date_checked": "2026-11-14"
+}

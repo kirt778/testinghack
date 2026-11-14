@@ -1,0 +1,44 @@
+{
+  "scheme_id": "kalaignar_magalir_tamil_nadu",
+  "scheme_name": "Kalaignar Magalir Urimai Thogai (Tamil Nadu State Scheme)",
+  "ministry": "Special Programme Implementation Department, Government of Tamil Nadu",
+  "state_specific": "Tamil Nadu",
+  "benefits_summary": "Monthly basic income grant of ₹1,000 deposited directly into the bank account of eligible women family heads across Tamil Nadu.",
+  "eligibility_rules": {
+    "min_age": 21,
+    "max_age": null,
+    "allowed_genders": [
+      "female"
+    ],
+    "allowed_states": [
+      "Tamil Nadu"
+    ],
+    "allowed_occupations": [
+      "All"
+    ],
+    "max_annual_income": 250000,
+    "allowed_categories": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ],
+    "requires_land_ownership": null
+  },
+  "exclusions": [
+    "Households owning a four-wheeler or consuming over 3,600 units of electricity per year",
+    "Families with annual income above ₹2,50,000"
+  ],
+  "documents_required": [
+    "Tamil Nadu Smart Family Ration Card",
+    "Identity Proof",
+    "Bank Passbook"
+  ],
+  "application_steps": [
+    "Attend the local Ration Shop registration camp or visit an e-Sevai / Common Service Centre in Tamil Nadu.",
+    "Complete biometric verification with your Smart Ration Card.",
+    "Receive ₹1,000 on the 15th of every month via DBT."
+  ],
+  "source_url": "https://kmut.tn.gov.in/",
+  "date_checked": "2026-11-14"
+}

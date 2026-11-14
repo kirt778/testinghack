@@ -1,0 +1,48 @@
+{
+  "scheme_id": "shetkari_maha_sanman_mh",
+  "scheme_name": "Namo Shetkari Mahasanman Nidhi Yojana (Maharashtra)",
+  "ministry": "Department of Agriculture, Government of Maharashtra",
+  "state_specific": "Maharashtra",
+  "benefits_summary": "Additional state financial support of ₹6,000 per year (in three ₹2,000 installments) on top of PM-KISAN, providing ₹12,000 total annual benefit to Maharashtra farmers.",
+  "eligibility_rules": {
+    "min_age": 18,
+    "max_age": null,
+    "allowed_genders": [
+      "male",
+      "female",
+      "other"
+    ],
+    "allowed_states": [
+      "Maharashtra"
+    ],
+    "allowed_occupations": [
+      "farmer",
+      "agriculture"
+    ],
+    "max_annual_income": null,
+    "allowed_categories": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ],
+    "requires_land_ownership": true
+  },
+  "exclusions": [
+    "Institutional landholders and income tax-paying households",
+    "Farmers not registered under PM-KISAN in Maharashtra"
+  ],
+  "documents_required": [
+    "7/12 Land Extract (Satbara Utara) and 8-A Record",
+    "PM-KISAN Registration Number",
+    "Bank Account Passbook",
+    "Official Identity Proof"
+  ],
+  "application_steps": [
+    "Ensure active registration and e-KYC on the PM-KISAN portal with Maharashtra land records.",
+    "Verify your 7/12 land mutation with the Talathi or CSC center on nsmny.mahait.org.",
+    "Installments are credited automatically to your bank account alongside PM-KISAN."
+  ],
+  "source_url": "https://www.myscheme.gov.in/schemes/nsmny",
+  "date_checked": "2026-11-14"
+}

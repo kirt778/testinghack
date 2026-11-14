@@ -1,0 +1,46 @@
+{
+  "scheme_id": "rythu_bharosa_telangana",
+  "scheme_name": "Rythu Bharosa / Rythu Bandhu Scheme (Telangana)",
+  "ministry": "Department of Agriculture, Government of Telangana",
+  "state_specific": "Telangana",
+  "benefits_summary": "Investment support of ₹10,000 to ₹15,000 per acre per year (split across Vanakalam/Kharif and Yasangi/Rabi seasons) for agricultural and horticultural farmers.",
+  "eligibility_rules": {
+    "min_age": 18,
+    "max_age": null,
+    "allowed_genders": [
+      "male",
+      "female",
+      "other"
+    ],
+    "allowed_states": [
+      "Telangana"
+    ],
+    "allowed_occupations": [
+      "farmer",
+      "agriculture"
+    ],
+    "max_annual_income": null,
+    "allowed_categories": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ],
+    "requires_land_ownership": true
+  },
+  "exclusions": [
+    "Non-cultivable barren land or commercial real-estate layouts"
+  ],
+  "documents_required": [
+    "Dharani / Pattadar Passbook or ROFR Title Deed (for tribal farmers)",
+    "Bank Account Passbook",
+    "Official Identity Proof"
+  ],
+  "application_steps": [
+    "Contact your cluster Agriculture Extension Officer (AEO) in your village/mandal in Telangana.",
+    "Submit copies of your Pattadar Passbook and bank account details before the crop season.",
+    "Receive direct seasonal credit into your bank account."
+  ],
+  "source_url": "https://www.myscheme.gov.in/schemes/rbs-tg",
+  "date_checked": "2026-11-14"
+}

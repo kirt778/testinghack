@@ -1,0 +1,45 @@
+{
+  "scheme_id": "ladli_behna_mp",
+  "scheme_name": "Mukhyamantri Ladli Behna Yojana (Madhya Pradesh)",
+  "ministry": "Department of Women and Child Development, Government of Madhya Pradesh",
+  "state_specific": "Madhya Pradesh",
+  "benefits_summary": "Monthly financial assistance of ₹1,250 transferred directly into the bank accounts of eligible women in Madhya Pradesh for health, nutrition, and economic self-reliance.",
+  "eligibility_rules": {
+    "min_age": 21,
+    "max_age": 60,
+    "allowed_genders": [
+      "female"
+    ],
+    "allowed_states": [
+      "Madhya Pradesh"
+    ],
+    "allowed_occupations": [
+      "All"
+    ],
+    "max_annual_income": 250000,
+    "allowed_categories": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ],
+    "requires_land_ownership": null
+  },
+  "exclusions": [
+    "Unmarried women (except widows, divorcees, and abandoned women)",
+    "Families owning more than 5 acres of agricultural land or paying income tax"
+  ],
+  "documents_required": [
+    "Samagra Family and Member ID",
+    "Official Identity Card",
+    "DBT-Enabled Bank Account Passbook",
+    "Active Mobile Number"
+  ],
+  "application_steps": [
+    "Visit your Gram Panchayat, Ward Office, or designated camp in Madhya Pradesh with your Samagra ID.",
+    "Complete live photograph capture and online form entry on cmladlibahna.mp.gov.in.",
+    "Collect your printed acknowledgment receipt and track monthly payments online."
+  ],
+  "source_url": "https://www.myscheme.gov.in/schemes/mmlby",
+  "date_checked": "2026-11-14"
+}

@@ -1,0 +1,45 @@
+{
+  "scheme_id": "ayushman_bharat",
+  "scheme_name": "Ayushman Bharat - Pradhan Mantri Jan Arogya Yojana (AB-PMJAY)",
+  "ministry": "Ministry of Health and Family Welfare",
+  "state_specific": "All India",
+  "benefits_summary": "Health insurance cover of up to ₹5,00,000 per family per year for secondary and tertiary care hospitalization at empaneled public and private hospitals.",
+  "eligibility_rules": {
+    "min_age": null,
+    "max_age": null,
+    "allowed_genders": [
+      "male",
+      "female",
+      "other"
+    ],
+    "allowed_states": [
+      "All"
+    ],
+    "allowed_occupations": [
+      "All"
+    ],
+    "max_annual_income": 250000,
+    "allowed_categories": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ],
+    "requires_land_ownership": null
+  },
+  "exclusions": [
+    "Households paying income tax or owning a four-wheeler vehicle"
+  ],
+  "documents_required": [
+    "Government-issued Identity Card",
+    "Ration Card or Family Income Certificate",
+    "Active Mobile Number"
+  ],
+  "application_steps": [
+    "Check eligibility on the official PM-JAY portal or at an empaneled hospital.",
+    "Visit the nearest Common Service Centre (CSC) or Ayushman Mitra desk with family ID documents.",
+    "Complete verification to receive your Ayushman Card."
+  ],
+  "source_url": "https://www.myscheme.gov.in/schemes/ab-pmjay",
+  "date_checked": "2026-11-14"
+}
